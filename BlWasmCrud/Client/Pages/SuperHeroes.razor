@@ -1,0 +1,27 @@
+﻿@page "/superheroes"
+@inject ISuperHeroService SuperHeroService
+@using BlWasmCrud.Shared
+
+
+<h3>SuperHeroes</h3>
+
+@code {
+	private List<SuperHero> heroes=new List<SuperHero>();
+
+	protected override async Task OnIntializedAsync()
+	{
+		
+	}
+ }
+
+<table>
+	<thead>
+		<tr>
+			<th>Firstname</th>
+			<th>Lastname</th>
+			<th>Heroname</th>
+			<th>Comic</th>
+		</tr>
+	</thead>
+	<tbody></tbody>
+</table>

@@ -1,0 +1,12 @@
+C:\Users\arshad\source\repos\BlWasmCrud\BlWasmCrud\Shared\bin\Debug\net6.0\BlWasmCrud.Shared.deps.json
+C:\Users\arshad\source\repos\BlWasmCrud\BlWasmCrud\Shared\bin\Debug\net6.0\BlWasmCrud.Shared.dll
+C:\Users\arshad\source\repos\BlWasmCrud\BlWasmCrud\Shared\bin\Debug\net6.0\BlWasmCrud.Shared.pdb
+C:\Users\arshad\source\repos\BlWasmCrud\BlWasmCrud\Shared\obj\Debug\net6.0\BlWasmCrud.Shared.csproj.AssemblyReference.cache
+C:\Users\arshad\source\repos\BlWasmCrud\BlWasmCrud\Shared\obj\Debug\net6.0\BlWasmCrud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arshad\source\repos\BlWasmCrud\BlWasmCrud\Shared\obj\Debug\net6.0\BlWasmCrud.Shared.AssemblyInfoInputs.cache
+C:\Users\arshad\source\repos\BlWasmCrud\BlWasmCrud\Shared\obj\Debug\net6.0\BlWasmCrud.Shared.AssemblyInfo.cs
+C:\Users\arshad\source\repos\BlWasmCrud\BlWasmCrud\Shared\obj\Debug\net6.0\BlWasmCrud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\arshad\source\repos\BlWasmCrud\BlWasmCrud\Shared\obj\Debug\net6.0\BlWasmCrud.Shared.dll
+C:\Users\arshad\source\repos\BlWasmCrud\BlWasmCrud\Shared\obj\Debug\net6.0\refint\BlWasmCrud.Shared.dll
+C:\Users\arshad\source\repos\BlWasmCrud\BlWasmCrud\Shared\obj\Debug\net6.0\BlWasmCrud.Shared.pdb
+C:\Users\arshad\source\repos\BlWasmCrud\BlWasmCrud\Shared\obj\Debug\net6.0\ref\BlWasmCrud.Shared.dll
